@@ -1,6 +1,6 @@
-Here's the markdown version of your documentation formatted as a README file:
 
-```markdown
+
+
 # GPT-2 Text Generation Project
 
 ## Project Overview
